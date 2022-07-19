@@ -2,8 +2,9 @@
 
 A repository that highlights and collects several works on Neuro-Symbolic Learning:
 
-| Short Title 						| Publication Link | Repository Link |
-|-----------------------------------|------------------|-----------------|
+| Short Title 						| Publication | Repository |
+|-----------------------------------|-------------|------------|
+| Compositional Relational Machines | [Paper](https://arxiv.org/abs/2206.00738) | [Code](https://github.com/Devanshu24/crm) |
 | BotGNN in a Molecule Generation System | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-97454-1_6) | 
 | Bottom-Graph Neural Networks		| [Paper](https://link.springer.com/article/10.1007/s10994-021-06090-8) | [Code](https://github.com/tirtharajdash/BotGNN) |
 | Vertex-Enriched Graph Neural Neworks | [Paper](https://link.springer.com/article/10.1007/s10994-021-05966-z) | [Code](https://github.com/tirtharajdash/VEGNN) |
