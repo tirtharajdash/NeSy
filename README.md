@@ -10,6 +10,18 @@ A repository that highlights and collects several works on Neuro-Symbolic Learni
 | Vertex-Enriched Graph Neural Neworks | [Paper](https://link.springer.com/article/10.1007/s10994-021-05966-z) | [Code](https://github.com/tirtharajdash/VEGNN) |
 | DRM (Hide-and-Seek) | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-30484-3_3) | [Code](https://github.com/tirtharajdash/ICANN2019_DRM) |
 
+### CRM
+
+Description of CRM. Some diagrams and example results.\
+Repository Link: [here](https://github.com/Devanshu24/crm).
+
+### BotGNN
+
+Todo.
+
+### VEGNN
+
+Todo.
 
 ### Other related repositories
 
