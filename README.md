@@ -3,27 +3,15 @@
 A repository that highlights and collects several works on Neuro-Symbolic Learning:
 
 | Short Title 						| Publication | Repository |
-|-----------------------------------|-------------|------------|
-| Compositional Relational Machines | [Paper](https://arxiv.org/abs/2206.00738) | [Code](https://github.com/tirtharajdash/crm) |
-| BotGNN in a Molecule Generation System | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-97454-1_6) | 
-| Bottom-Graph Neural Networks		| [Paper](https://link.springer.com/article/10.1007/s10994-021-06090-8) | [Code](https://github.com/tirtharajdash/BotGNN) |
-| Vertex-Enriched Graph Neural Neworks | [Paper](https://link.springer.com/article/10.1007/s10994-021-05966-z) | [Code](https://github.com/tirtharajdash/VEGNN) |
-| DRM (Hide-and-Seek) | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-30484-3_3) | [Code](https://github.com/tirtharajdash/ICANN2019_DRM) |
+|-------------------------------------------------------|-------------|------------|
+| Symbolic Neural Generation (SNG) | [Paper](https://doi.org/10.48550/arXiv.2510.23379) | [Code](https://github.com/tirtharajdash/LMLFStar)
+| Language Model with Logical Feedback (LMLF) | [Paper](https://doi.org/10.1609/aaai.v38i1.27751) | [Code](https://github.com/Shreyas-Bhat/LMLF)
+| Compositional Relational Machine (CRM) | [Paper](https://arxiv.org/abs/2206.00738) | [Code](https://github.com/tirtharajdash/crm) |
+| BotGNN in a Molecule Generation System (VAE-BotGNN) | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-97454-1_6) | 
+| Bottom-Graph Neural Networks (BotGNN) | [Paper](https://link.springer.com/article/10.1007/s10994-021-06090-8) | [Code](https://github.com/tirtharajdash/BotGNN) |
+| Vertex-Enriched Graph Neural Neworks (VEGNN) | [Paper](https://link.springer.com/article/10.1007/s10994-021-05966-z) | [Code](https://github.com/tirtharajdash/VEGNN) |
+| Deep Relational Machine with Hide-and-Seek sampling (DRM) | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-30484-3_3) | [Code](https://github.com/tirtharajdash/ICANN2019_DRM) |
 
-### CRM
-
-Description of CRM. Some diagrams and example results.\
-Repository Link: [here](https://github.com/tirtharajdash/crm).
-
-Old repo is [here](https://github.com/Devanshu24/crm).
-
-### BotGNN
-
-Todo.
-
-### VEGNN
-
-Todo.
 
 ### Other related repositories
 
