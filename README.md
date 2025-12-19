@@ -1,6 +1,6 @@
-# Neuro-Symbolic Learning at APPCAIR
+# Neurosymbolic AI at BITS Pilani, Goa Campus
 
-A repository that highlights and collects several works on Neuro-Symbolic Learning:
+A repository that highlights and collects several works on Neurosymbolic AI, mostly carried out by [Tirtharaj Dash](https://www.bits-pilani.ac.in/goa/tirtharaj-dash/) and [Ashwin Srinivasan](https://www.bits-pilani.ac.in/goa/ashwin-srinivasan/).
 
 | Short Title 						| Publication | Repository |
 |-------------------------------------------------------|-------------|------------|
